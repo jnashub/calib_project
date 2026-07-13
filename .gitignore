@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+omed.py
+exp.md
+paper.synctex.gz
